@@ -7,7 +7,6 @@ const adminRoutes = require('./routes/adminRoutes');
 const employeeRoutes = require('./routes/employeeRoutes');
 const attendanceRoutes = require('./routes/attendanceRoutes');
 
-
 const app = express();
 
 connectDB();
